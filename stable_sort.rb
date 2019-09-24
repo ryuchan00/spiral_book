@@ -1,3 +1,4 @@
+# 計算量はO(N^4)
 def isStable(n:, input:, out:)
   n = n - 1
   0.upto(n) do |i|
